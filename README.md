@@ -2,6 +2,6 @@
 for training course.
 
 # Add stuff to this, boop boop
-*boop
-*boop
-*boop
+* boop
+* boop
+* boop
